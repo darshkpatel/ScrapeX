@@ -6,21 +6,28 @@ The collected data is analyzed and categorized whether it is positive, negative 
 
 ## Screenshots
 
-<img src="screenshots/1.jpg">
-Pie Chart representing neutral, positive, and negative tweets. Heat Map showing areas where company has been performing well.
-<br />
-<br />
-<img src="screenshots/2.jpg">
-WordMap on the left which can be clicked to filter results and Sentiment Count Graph
-<br>
+<p>
+<img src="screenshots/1.jpg"><br>
+Pie Chart representing neutral, positive, and negative tweets. Heat Map showing areas where company has been performing well.<br>
+</p>
 
-<img src="screenshots/3.jpg">
-WordMaps for good and poor reviews. Dials representing best performing cities.
-<br>
+<p>
+<img src="screenshots/2.jpg"><br>
+WordMap on the left which can be clicked to filter results and Sentiment Count Graph<br>
+</p>
 
-<img src="screenshots/4.jpg">
-Domestic vs International Satisfaction Level
+<p>
+<img src="screenshots/3.jpg"><br>
+WordMaps for good and poor reviews. Dials representing best performing cities.<br>
 <br>
+</p>
 
-<img src="screenshots/5.jpg">
-Average Rating, Twitter Sentiment Tweet Count
+<p>
+<img src="screenshots/4.jpg"><br>
+Domestic vs International Satisfaction Level<br>
+</p>
+
+<p>
+<img src="screenshots/5.jpg"><br>
+Average Rating, Twitter Sentiment Tweet Count<br>
+</p>
