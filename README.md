@@ -24,10 +24,10 @@ WordMaps for good and poor reviews. Dials representing best performing cities.<b
 
 <p>
 <img src="screenshots/4.jpg"><br>
-Domestic vs International Satisfaction Level<br>
+Domestic vs International Satisfaction Level, Twitter Sentiment Count<br>
 </p>
 
 <p>
 <img src="screenshots/5.jpg"><br>
-Average Rating, Twitter Sentiment Tweet Count<br>
+Summary<br>
 </p>
