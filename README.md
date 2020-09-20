@@ -8,8 +8,8 @@ The collected data is analyzed and categorized whether it is positive, negative 
 
 <img src="screenshots/1.jpg">
 Pie Chart representing neutral, positive, and negative tweets. Heat Map showing areas where company has been performing well.
-<br>
-
+<br />
+<br />
 <img src="screenshots/2.jpg">
 WordMap on the left which can be clicked to filter results and Sentiment Count Graph
 <br>
