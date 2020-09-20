@@ -25,16 +25,11 @@ access_token_secret = '<Twitter_Access_Token_Secret>'
 # create instance of elasticsearch
 es = Elasticsearch()
 
-
-
-
-
 auth = tweepy.OAuthHandler(consumer_key,consumer_secret)
-
 auth.set_access_token(access_token,access_token_secret)
-
 api = tweepy.API(auth)
 
+# twitter responses
 class TweetStreamListener(StreamListener):
       def on_data(self, data):
         dict_data = json.loads(data)
